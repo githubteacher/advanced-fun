@@ -1,5 +1,7 @@
 # Welcome to "Advanced" Git
 
+[![Join the chat at https://gitter.im/advanced-fun/Lobby](https://badges.gitter.im/advanced-fun/Lobby.svg)](https://gitter.im/advanced-fun/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 - **Date:** January 23, 2017 
 - **Facilitators:** @crichID and @hectorsector
 - **Class Chat:** 
